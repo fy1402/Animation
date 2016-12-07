@@ -12,3 +12,8 @@ Git tracks changes of files.
 # 第一次提交
 # 第二次提交
 >>>>>>> 88f7322f7340ec64f981c12acd56d9561fcc8783
+
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
+Git tracks changes.
