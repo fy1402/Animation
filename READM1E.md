@@ -11,6 +11,8 @@ Git tracks changes of files.
 # 测试 分支
 # 第一次提交
 # 第二次提交
+
+# clone two branch issue
 >>>>>>> 88f7322f7340ec64f981c12acd56d9561fcc8783
 
 Git is a distributed version control system.
