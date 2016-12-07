@@ -13,3 +13,7 @@ git commit -m "wrote a readme file"
 * git commit 添加完成之后提交文件
 
 # 版本回退
+* git log 历史记录查看
+  a3c67afe70f0e86f9a7516fd94c5a4dfe4498fc5 first commit
+  版本记录  commit id（版本号）                提交说明
+
